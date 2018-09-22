@@ -4458,7 +4458,7 @@ footer {
 .navbar-nav li a {
 	font-size: 14px;
 	font-family: 'Ubuntu', sans-serif;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-weight: 700;
 	line-height: 24px;
 	color: #777777;
